@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## プライバシー保護関連
  -  **A privacy-preserving framework with multi-modal data for cross-domain recommendation(2024)**　　
 
