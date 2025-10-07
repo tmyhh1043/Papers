@@ -14,6 +14,15 @@
   [[code]]()
 </details>
 
+**<details><summary>Enhancing Transferability and Consistency in Cross-Domain
+Recommendations via Supervised Disentanglement(2025)**</summary><div>  
+ GNNで抽出した特徴量をアンカーとして設定し，教師あり対照学習の枠組みで特徴の分離．具体的には、ドメイン間で変換した共有情報，GNNの特徴，固有情報とアンカーとの類似度を計算し、共有情報> GNNの特徴>固有特徴という関係が成立するように損失を設計．アイテム埋め込みも活用し、ドメインAの固有嗜好とドメインAのアイテムの埋め込みを近づけ、ドメインBのアイテム埋め込みと遠ざける。（ドメインBでも同様）
+
+
+  [[link]](https://dl.acm.org/doi/10.1145/3705328.3748044)
+  [[code]](https://github.com/WangYuhan-0520/DGCDR)
+</details>
+
 ## マルチモーダル推薦
 ### マルチモーダル推薦のためのオープンソースフレームワーク
 
