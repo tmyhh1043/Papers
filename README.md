@@ -23,6 +23,14 @@ Recommendations via Supervised Disentanglement(2025)**</summary><div>
   [[code]](https://github.com/WangYuhan-0520/DGCDR)
 </details>
 
+## 因果推論と推薦システム
+ **<details><summary>A Model-Agnostic Causal Learning Framework for Recommendation using Search Data(2022)**</summary><div>  
+  ユーザの検索行動を操作変数とみなし、処置変数を操作変数で回帰することで、クリックに重要な因果的要素と人気バイアスなどの非因果的要素を分離。
+
+  [[link]](https://dl.acm.org/doi/10.1145/3485447.3511951)
+  [[code]](https://github.com/Ethan00Si/Instrumental-variables-for-recommendation)
+</details>
+
 ## マルチモーダル推薦
 ### マルチモーダル推薦のためのオープンソースフレームワーク
 
