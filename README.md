@@ -24,6 +24,14 @@ Recommendations via Supervised Disentanglement(2025)**</summary><div>
 </details>
 
 ## 因果推論と推薦システム
+**<details><summary>Instrumental Variables in Causal Inference and Machine Learning: A Survey(2022)**</summary><div>  
+  交絡因子を特定できないとき場合に使える、因果効果の測定法の1つである操作変数法に関するサーベイ論文。
+
+  [[link]](https://arxiv.org/abs/2212.05778)
+  [[code]]()
+</details>
+
+
  **<details><summary>A Model-Agnostic Causal Learning Framework for Recommendation using Search Data(2022)**</summary><div>  
   ユーザの検索行動を操作変数とみなし、処置変数を操作変数で回帰することで、クリックに重要な因果的要素と人気バイアスなどの非因果的要素を分離。
 
