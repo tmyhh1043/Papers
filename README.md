@@ -39,6 +39,13 @@ Recommendations via Supervised Disentanglement(2025)**</summary><div>
   [[code]](https://github.com/Ethan00Si/Instrumental-variables-for-recommendation)
 </details>
 
+ **<details><summary>Interaction-Data-guided Conditional Instrumental Variables for Debiasing Recommender Systems(2025)**</summary><div>  
+  インタラクションデータからユーザの真の嗜好とバイアスを自動で分離するためのVAE（CSEM）を提案。
+
+  [[link]](https://www.ijcai.org/proceedings/2025/0329.pdf)
+  [[code]]()
+</details>
+
 ## マルチモーダル推薦
 ### マルチモーダル推薦のためのオープンソースフレームワーク
 
