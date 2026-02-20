@@ -32,6 +32,13 @@ Dual-Target Cross-Domain Recommendation(2025)**</summary><div>
   [[code]]()
 </details>
 
+**<details><summary>Decoupled domain-specific and domain-conditional representation learning for cross-domain recommendation(2024)**</summary><div>  
+
+
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0306457324000499)
+  [[code]](https://github.com/zhangyucs/DRLCDR)
+</details>
+
 ## 因果推論と推薦システム
 **<details><summary>Instrumental Variables in Causal Inference and Machine Learning: A Survey(2022)**</summary><div>  
   交絡因子を特定できないとき場合に使える、因果効果の測定法の1つである操作変数法に関するサーベイ論文。
