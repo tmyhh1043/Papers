@@ -59,6 +59,11 @@ Dual-Target Cross-Domain Recommendation(2025)**</summary><div>
   [[code]]()
 </details>
 
+**<details><summary>Sequential Recommendation via an Adaptive Cross-domain Knowledge Decomposition(2023)**</summary><div>  
+
+  [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615058)
+  [[code]](https://github.com/LxytIUON/ARISEN)
+</details>
 
  **<details><summary>A Model-Agnostic Causal Learning Framework for Recommendation using Search Data(2022)**</summary><div>  
   ユーザの検索行動を操作変数とみなし、処置変数を操作変数で回帰することで、クリックに重要な因果的要素と人気バイアスなどの非因果的要素を分離。
@@ -73,8 +78,6 @@ Dual-Target Cross-Domain Recommendation(2025)**</summary><div>
   [[link]](https://www.ijcai.org/proceedings/2025/0329.pdf)
   [[code]]()
 </details>
-
-
 
 ## マルチモーダル推薦
 ### マルチモーダル推薦のためのオープンソースフレームワーク
