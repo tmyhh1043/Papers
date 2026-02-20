@@ -47,6 +47,8 @@ Dual-Target Cross-Domain Recommendation(2025)**</summary><div>
 </details>
 
 
+
+
 ## 因果推論と推薦システム
 **<details><summary>Instrumental Variables in Causal Inference and Machine Learning: A Survey(2022)**</summary><div>  
   交絡因子を特定できないとき場合に使える、因果効果の測定法の1つである操作変数法に関するサーベイ論文。
@@ -69,6 +71,8 @@ Dual-Target Cross-Domain Recommendation(2025)**</summary><div>
   [[link]](https://www.ijcai.org/proceedings/2025/0329.pdf)
   [[code]]()
 </details>
+
+
 
 ## マルチモーダル推薦
 ### マルチモーダル推薦のためのオープンソースフレームワーク
