@@ -6,9 +6,6 @@
   [[code]](https://github.com/Lili1013/P2M2-CDR)
 </details>
 
-  [[link]](https://dl.acm.org/doi/10.1145/3696410.3714860)
-  [[code]]()
-</details>
 
 **<details><summary>Enhancing Transferability and Consistency in Cross-Domain
 Recommendations via Supervised Disentanglement(2025)**</summary><div>  
@@ -35,6 +32,11 @@ Recommendations via Supervised Disentanglement(2025)**</summary><div>
 
  **<details><summary>Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation(2025)**</summary><div>  
  類似度グラフにペアワイズグラフ・ハイパーグラフの2つを導入し、局所的な類似性と広範囲な類似性を捉える。また、重複ユーザをガイドとし、ドメイン間で嗜好が似ている非重複ユーザをマッチングし、クロスドメイン推薦を実現。
+
+
+  [[link]](https://dl.acm.org/doi/10.1145/3696410.3714860)
+  [[code]]()
+</details>
 
 
 **<details><summary>Causal Deconfounding via Confounder Disentanglement for
