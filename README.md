@@ -6,10 +6,6 @@
   [[code]](https://github.com/Lili1013/P2M2-CDR)
 </details>
 
- **<details><summary>Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation(2025)**</summary><div>  
- 類似度グラフにペアワイズグラフ・ハイパーグラフの2つを導入し、局所的な類似性と広範囲な類似性を捉える。また、重複ユーザをガイドとし、ドメイン間で嗜好が似ている非重複ユーザをマッチングし、クロスドメイン推薦を実現。
-
-
   [[link]](https://dl.acm.org/doi/10.1145/3696410.3714860)
   [[code]]()
 </details>
@@ -21,15 +17,6 @@ Recommendations via Supervised Disentanglement(2025)**</summary><div>
 
   [[link]](https://dl.acm.org/doi/10.1145/3705328.3748044)
   [[code]](https://github.com/WangYuhan-0520/DGCDR)
-</details>
-
-**<details><summary>Causal Deconfounding via Confounder Disentanglement for
-Dual-Target Cross-Domain Recommendation(2025)**</summary><div>  
- CDRの推薦精度向上のために、観測された交絡因子（送料無料、セールなど）を処理したフレームワーク。
-
-
-  [[link]](https://dl.acm.org/doi/10.1145/3737457)
-  [[code]]()
 </details>
 
 **<details><summary>Decoupled domain-specific and domain-conditional representation learning for cross-domain recommendation(2024)**</summary><div>  
@@ -44,6 +31,19 @@ Dual-Target Cross-Domain Recommendation(2025)**</summary><div>
 
   [[link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531967)
   [[code]](https://github.com/cjx96/DisenCDR)
+</details>
+
+ **<details><summary>Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation(2025)**</summary><div>  
+ 類似度グラフにペアワイズグラフ・ハイパーグラフの2つを導入し、局所的な類似性と広範囲な類似性を捉える。また、重複ユーザをガイドとし、ドメイン間で嗜好が似ている非重複ユーザをマッチングし、クロスドメイン推薦を実現。
+
+
+**<details><summary>Causal Deconfounding via Confounder Disentanglement for
+Dual-Target Cross-Domain Recommendation(2025)**</summary><div>  
+ CDRの推薦精度向上のために、観測された交絡因子（送料無料、セールなど）を処理したフレームワーク。
+
+
+  [[link]](https://dl.acm.org/doi/10.1145/3737457)
+  [[code]]()
 </details>
 
 ## 因果推論と推薦システム
