@@ -39,6 +39,13 @@ Dual-Target Cross-Domain Recommendation(2025)**</summary><div>
   [[code]](https://github.com/zhangyucs/DRLCDR)
 </details>
 
+**<details><summary>DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation(2022)**</summary><div>  
+
+
+  [[link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531967)
+  [[code]](https://github.com/cjx96/DisenCDR)
+</details>
+
 ## 因果推論と推薦システム
 **<details><summary>Instrumental Variables in Causal Inference and Machine Learning: A Survey(2022)**</summary><div>  
   交絡因子を特定できないとき場合に使える、因果効果の測定法の1つである操作変数法に関するサーベイ論文。
